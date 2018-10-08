@@ -16,4 +16,9 @@ public class WaterBottleTest {
     public void bottleHasName(){
         assertEquals("bottle1", waterBottle.getName());
     }
+
+    @Test
+    public void hasVolume(){
+        assertEquals(100, waterBottle.getVolume());
+    }
 }
