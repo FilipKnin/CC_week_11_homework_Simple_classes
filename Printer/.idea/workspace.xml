@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a6eaab9d-2a6c-4596-9822-d52063174ccc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/PrinterTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Water Bottle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/.idea/workspace.xml" afterDir="false" />
@@ -42,12 +44,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="852" />
+          <entry key="java" value="1616" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="852" />
+          <entry key="JAVA" value="1616" />
         </counts>
       </usages-collector>
     </session>
@@ -57,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            <state relative-caret-position="534">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
@@ -70,6 +72,12 @@
                 <element signature="e#527#528#0" expanded="true" />
                 <element signature="e#573#574#0" expanded="true" />
                 <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#1141#1142#0" expanded="true" />
+                <element signature="e#1190#1191#0" expanded="true" />
+                <element signature="e#1337#1338#0" expanded="true" />
+                <element signature="e#1380#1381#0" expanded="true" />
+                <element signature="e#1408#1409#0" expanded="true" />
+                <element signature="e#1464#1465#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+            <state relative-caret-position="464">
+              <caret line="80" column="53" lean-forward="true" selection-start-line="80" selection-start-column="53" selection-end-line="80" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#181#182#0" expanded="true" />
@@ -92,6 +100,12 @@
                 <element signature="e#543#544#0" expanded="true" />
                 <element signature="e#1169#1170#0" expanded="true" />
                 <element signature="e#1231#1232#0" expanded="true" />
+                <element signature="e#1480#1481#0" expanded="true" />
+                <element signature="e#1556#1557#0" expanded="true" />
+                <element signature="e#1616#1617#0" expanded="true" />
+                <element signature="e#1690#1691#0" expanded="true" />
+                <element signature="e#1744#1745#0" expanded="true" />
+                <element signature="e#1803#1804#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -404,8 +418,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Printer.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Printer.java" />
       </list>
     </option>
   </component>
@@ -454,7 +468,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539015673713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539030458532" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -497,22 +511,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_Printer_test - 2018.10.08 at 16h 43m 36s.xml">
-      <configuration name="All in Printer_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Printer_test - 2018.10.08 at 16h 49m 03s.xml">
-      <configuration name="All in Printer_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Printer_test - 2018.10.08 at 16h 53m 50s.xml">
-      <configuration name="All in Printer_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Printer_test - 2018.10.08 at 16h 56m 47s.xml">
-      <configuration name="All in Printer_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 11m 17s.xml">
-      <configuration name="All in Printer_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 20m 17s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 21m 17s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 29m 15s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 33m 46s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 38m 20s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 39m 09s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 44m 12s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 17h 44m 49s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 21h 17m 16s.xml">
+      <configuration name="All in Printer_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Printer_test - 2018.10.08 at 21h 23m 20s.xml">
       <configuration name="All in Printer_test" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -525,13 +551,13 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286908" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32729805" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32729805" />
+      <window_info anchor="bottom" id="Messages" weight="0.32729805" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32729805" />
@@ -549,6 +575,36 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3286908" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="3" weight="0.32729805" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32729805" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32729805" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -556,8 +612,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="534">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
           <folding>
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
@@ -569,14 +625,20 @@
             <element signature="e#527#528#0" expanded="true" />
             <element signature="e#573#574#0" expanded="true" />
             <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        <state relative-caret-position="464">
+          <caret line="80" column="53" lean-forward="true" selection-start-line="80" selection-start-column="53" selection-end-line="80" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
@@ -589,6 +651,12 @@
             <element signature="e#543#544#0" expanded="true" />
             <element signature="e#1169#1170#0" expanded="true" />
             <element signature="e#1231#1232#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1616#1617#0" expanded="true" />
+            <element signature="e#1690#1691#0" expanded="true" />
+            <element signature="e#1744#1745#0" expanded="true" />
+            <element signature="e#1803#1804#0" expanded="true" />
           </folding>
         </state>
       </provider>

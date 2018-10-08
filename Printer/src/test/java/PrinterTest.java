@@ -10,7 +10,7 @@ public class PrinterTest {
 
     @Before
     public void before(){
-        printer = new Printer("printer1", 100, 200);
+        printer = new Printer("printer1", 100, 200, 250);
     }
 
     @Test
@@ -30,21 +30,21 @@ public class PrinterTest {
 
     @Test
     public void hasReduceTonerMethod(){
-        printer.reduceToner();
-        printer.reduceToner();
+        printer.reduceToner(1);
+        printer.reduceToner(1);
         assertEquals(198, printer.getToner());
     }
 
     @Test
     public void hasReduceSheetsNumberMethod(){
-        printer.reduceSheetsNumber();
-        printer.reduceSheetsNumber();
+        printer.reduceSheetsNumber(1);
+        printer.reduceSheetsNumber(1);
         assertEquals(98, printer.getSheetsNumber());
     }
 
     @Test
     public void hasEnoughPaperMethodReturnsFalse(){
-        printer2 = new Printer("printer2", 0, 200);
+        printer2 = new Printer("printer2", 0, 200, 250);
         assertEquals(false, printer2.hasEnoughPaper());
     }
 
@@ -53,6 +53,33 @@ public class PrinterTest {
         assertEquals(true, printer.hasEnoughPaper());
     }
 
+    @Test
+    public void hasPrintMethodEnoughPaper(){
+        printer.print(2,2);
+        assertEquals(96, printer.getSheetsNumber());
+        assertEquals(196, printer.getToner());
+    }
+
+    @Test
+    public void hasThereIsNoEnoughPaperMethod(){
+        assertEquals("There is no paper!", printer.thereIsNoPaper());
+    }
+
+    @Test
+    public void hasPrintMethodNotEnoughPaper() {
+        assertEquals("There is no paper!", printer.print(10, 100));
+    }
+
+    @Test
+    public void hasPaperMaximumCapacity() {
+        assertEquals(250, printer.getMaximumCapacity());
+    }
+
+    @Test
+    public void hasRefillMethod() {
+        printer.refill();
+        assertEquals(250, printer.getSheetsNumber());
+    }
 
 
 
