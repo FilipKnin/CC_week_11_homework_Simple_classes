@@ -21,4 +21,8 @@ public class Printer {
     public int getToner() {
         return this.toner;
     }
+
+    public void reduceToner() {
+        this.toner = this.toner -1;
+    }
 }
