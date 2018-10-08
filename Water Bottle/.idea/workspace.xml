@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2281c0a2-7ab7-4151-89fa-4670411bbf06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Printer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Printer/out/test/classes/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Printer/out/production/classes/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/out/production/classes/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Printer/out/test/classes/PrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/out/test/classes/PrinterTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Printer/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/src/main/java/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Printer/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/src/test/java/PrinterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -453,7 +454,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539015026748" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539015649464" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

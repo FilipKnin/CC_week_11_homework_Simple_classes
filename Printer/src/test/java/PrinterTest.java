@@ -6,6 +6,7 @@ import static org.junit.Assert.assertEquals;
 public class PrinterTest {
 
     Printer printer;
+    Printer printer2;
 
     @Before
     public void before(){
@@ -35,11 +36,23 @@ public class PrinterTest {
     }
 
     @Test
-    public void hasReduceSheetsNumber(){
+    public void hasReduceSheetsNumberMethod(){
         printer.reduceSheetsNumber();
         printer.reduceSheetsNumber();
         assertEquals(98, printer.getSheetsNumber());
     }
+
+    @Test
+    public void hasEnoughPaperMethodReturnsFalse(){
+        printer2 = new Printer("printer2", 0, 200);
+        assertEquals(false, printer2.hasEnoughPaper());
+    }
+
+    @Test
+    public void hasEnoughPaperMethodReturnsTrue(){
+        assertEquals(true, printer.hasEnoughPaper());
+    }
+
 
 
 

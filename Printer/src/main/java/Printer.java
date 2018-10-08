@@ -29,4 +29,12 @@ public class Printer {
     public void reduceSheetsNumber() {
         this.sheetsNumber = this.sheetsNumber -1;
     }
+
+    public boolean hasEnoughPaper() {
+        if (this.sheetsNumber > 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
 }
