@@ -34,6 +34,13 @@ public class PrinterTest {
         assertEquals(198, printer.getToner());
     }
 
+    @Test
+    public void hasReduceSheetsNumber(){
+        printer.reduceSheetsNumber();
+        printer.reduceSheetsNumber();
+        assertEquals(98, printer.getSheetsNumber());
+    }
+
 
 
 }

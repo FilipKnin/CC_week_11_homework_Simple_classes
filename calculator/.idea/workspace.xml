@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="521a9329-5503-41b8-b247-1c80aebed171" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Printer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Printer/out/test/classes/PrinterTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Printer/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/src/main/java/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Printer/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/src/test/java/PrinterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Water Bottle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -460,7 +462,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539014171394" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539015026716" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

@@ -25,4 +25,8 @@ public class Printer {
     public void reduceToner() {
         this.toner = this.toner -1;
     }
+
+    public void reduceSheetsNumber() {
+        this.sheetsNumber = this.sheetsNumber -1;
+    }
 }
