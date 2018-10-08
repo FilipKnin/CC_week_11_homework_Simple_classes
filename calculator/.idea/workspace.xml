@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="521a9329-5503-41b8-b247-1c80aebed171" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Water Bottle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Water Bottle/out/production/classes/WaterBottle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/out/production/classes/WaterBottle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Water Bottle/out/test/classes/WaterBottleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/out/test/classes/WaterBottleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Water Bottle/src/main/java/WaterBottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/src/main/java/WaterBottle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Water Bottle/src/test/java/WaterBottleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/src/test/java/WaterBottleTest.java" afterDir="false" />
     </list>
@@ -459,7 +461,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539012377857" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539012575122" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
