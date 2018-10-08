@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521a9329-5503-41b8-b247-1c80aebed171" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Water Bottle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Water Bottle/src/main/java/WaterBottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/src/main/java/WaterBottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Water Bottle/src/test/java/WaterBottleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Water Bottle/src/test/java/WaterBottleTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -73,7 +74,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
+            <state relative-caret-position="465">
               <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -458,7 +459,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539011616153" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539012201681" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -514,6 +515,9 @@
       <configuration name="All in calculator_test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_calculator_test - 2018.10.08 at 16h 11m 40s.xml">
+      <configuration name="All in calculator_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_calculator_test - 2018.10.08 at 16h 11m 49s.xml">
       <configuration name="All in calculator_test" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -574,7 +578,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
+        <state relative-caret-position="465">
           <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
